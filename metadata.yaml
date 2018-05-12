@@ -1,0 +1,35 @@
+_repo: The-Feast-of-St.-Friend_14653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: If the hustle and bustle and toxic consumerism of the holiday season
+  has tarnished your enthusiasm, British author Arnold Bennett''s essay collection
+  The Feast of St. Friend is just the restorative balm you need. In a series of thoughtful
+  meditations, Bennett reflects on the true meaning of Christmas and its deep spiritual
+  significance.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas'
+title: The Feast of St. Friend
+url: http://www.gutenberg.org/ebooks/14653
